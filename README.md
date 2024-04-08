@@ -11,7 +11,7 @@ Estamos construindo maneiras novas para formar engenheiros de dados focando em *
 
 A plataforma **Apoena Stack** é desenvolvida para lhe proporcionar uma experiência de aprendizado única que permite você se aprofundar tecnicamente na área de Engenharia de Dados. ✍️
 
-Conheça nossa plataforma: apoenastack.com ✌️
+Conheça nossa plataforma por [aqui](apoenastack.com) ✌️
 
 Para conhecer mais sobre o projeto participe das nossas iniciativas abertas à comunidade!
 
@@ -35,6 +35,7 @@ Encontro | Data + Horário  | Tema | Local | Material de Apoio
 | XV | 13/05/2024 - 18h30 | Ingestão de Dados com DuckDB, AWS e Spark | ✨ Youtube | |
 
 🔰 Apenas o ao vivo será gratuito. A gravação ficará disponível apenas para alunos da plataforma.
+
 ✨ A gravação ficará disponível gratuitamente.
 
 OBS: Esse calendário está sujeito a modificações! Qualquer modificação será atualizada nos canais da Apoena Stack: comunidade exclusiva e comunidade aberta!
