@@ -32,7 +32,7 @@ Encontro | Data + Horário  | Tema | Local | Material de Apoio
 | VI | 02/05/2024 - 20h | Ingestão de Dados de API com Python e Google Cloud | 🔰 Youtube | |
 | VII | 06/05/2024 - 19h | Estruturas de Dados: Pilhas e Filas | 🔰 Youtube | |
 | VIII | 09/05/2024 - 20h | Algoritmos em Grafos | 🔰 Youtube | |
-| XV | 13/05/2024 - 18h30 | Ingestão de Dados com DuckDB, AWS e Spark | ✨ Youtube | |
+| IX | 13/05/2024 - 18h30 | Ingestão de Dados com DuckDB, AWS e Spark | ✨ Youtube | |
 
 🔰 Apenas o ao vivo será gratuito. A gravação ficará disponível apenas para alunos da plataforma.
 
