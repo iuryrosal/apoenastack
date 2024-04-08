@@ -23,7 +23,7 @@ Nesses encontros iremos abordar fundamentos, projetos e boas práticas, essencia
 Confira nosso calendário abaixo.
 
 Encontro | Data + Horário  | Tema | Local | Material de Apoio 
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |  ------------- |
 | I | 11/04/2024 - 20h | Estruturando Projetos de Python com CookieCutter, Poetry e Visual Studio Code | ✨ Youtube | |
 | II | 15/04/2024 - 19h | Introdução a Análise de Algoritmos no Python | ✨ Youtube | |
 | III | 18/04/2024 - 20h | Algoritmos de Ordenação de Dados e Seus Desafios | 🔰 Youtube | |
