@@ -11,7 +11,7 @@ Estamos construindo maneiras novas para formar engenheiros de dados focando em *
 
 A plataforma **Apoena Stack** é desenvolvida para lhe proporcionar uma experiência de aprendizado única que permite você se aprofundar tecnicamente na área de Engenharia de Dados. ✍️
 
-Conheça nossa plataforma por [aqui](apoenastack.com) ✌️
+Conheça nossa plataforma por [aqui](https://www.apoenastack.com) ✌️
 
 Para conhecer mais sobre o projeto participe das nossas iniciativas abertas à comunidade!
 
@@ -48,7 +48,7 @@ Faça parte, clicando [aqui](https://chat.whatsapp.com/CiWfP2g352y1g6QSwALXsD).
 <h1 align="center">Pré Requisitos</h1>
 Para acompanhar nossos encontros da melhor forma, indicamos que tenha conhecimento em lógica de programação e a parte básica do Python (estruturas condicionais, estruturas de repetição, variáveis e funções). 
 
-Na plataforma da Apoena Stack temos conteúdos de Python que abordar do básico ao avançado, iniciando do Hello World até os conteúdos de Programação Orientada a Objetos. Conheça clicando [aqui](apooenastack.com).
+Na plataforma da Apoena Stack temos conteúdos de Python que abordar do básico ao avançado, iniciando do Hello World até os conteúdos de Programação Orientada a Objetos. Conheça clicando [aqui](https://www.apooenastack.com).
 
 É desejável que você já tenha uma experiência de, pelo menos, 1 ano na área de dados.
 
