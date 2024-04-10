@@ -25,13 +25,11 @@ Confira nosso calendário abaixo.
 Encontro | Data + Horário  | Tema | Local | Material de Apoio 
 | ------------- | ------------- | ------------- | ------------- |  ------------- |
 | I | 11/04/2024 - 20h | Estruturando Projetos de Python com CookieCutter, Poetry e Visual Studio Code | ✨ [Youtube](https://youtube.com/live/2u7muy23F8s?feature=share) | |
-| II | 15/04/2024 - 19h | Introdução a Análise de Algoritmos no Python | ✨ [Youtube](https://youtube.com/live/nI5mdRKPPJs?feature=share) | |
-| III | 18/04/2024 - 20h | Algoritmos de Ordenação de Dados e Seus Desafios | 🔰 [Youtube](https://youtube.com/live/YsP63Bjd7_0?feature=share) | |
-| IV | 29/04/2024 - 19h | Processo de ELT com Python, DuckDB e MinIO | 🔰 [Youtube](https://youtube.com/live/r1Cp4oV_JXI?feature=share) | |
-| V | 02/05/2024 - 20h | Ingestão de Dados de API com Python e Google Cloud | 🔰 Youtube (EM BREVE) | |
-| VI | 06/05/2024 - 19h | Árvores Binárias e Suas Aplicações | 🔰 Youtube (EM BREVE) | |
-| VII | 09/05/2024 - 20h | Filas e Pilhas com Aplicações | 🔰 Youtube (EM BREVE) | |
-| VIII | 13/05/2024 - 18h30 | Ingestão de Dados com DuckDB, AWS e Spark | ✨ Youtube (EM BREVE) | |
+| II | 18/04/2024 - 20h | Docker: O Básico e Essencial para Dados | ✨ [Youtube](https://youtube.com/live/nI5mdRKPPJs?feature=share) | |
+| III | 29/04/2024 - 19h | Processo de ELT com Python, DuckDB e MinIO | 🔰 [Youtube](https://youtube.com/live/r1Cp4oV_JXI?feature=share) | |
+| IV | 02/05/2024 - 20h | Ingestão de Dados de API com Python e Google Cloud | 🔰 Youtube (EM BREVE) | |
+| V | 06/05/2024 - 19h | WebScraping com Python Selenium e Google Cloud | 🔰 Youtube (EM BREVE) | |
+| VI | 13/05/2024 - 18h30 | Ingestão de Dados com DuckDB, AWS e Spark | ✨ Youtube (EM BREVE) | |
 
 🔰 Apenas o ao vivo será gratuito. A gravação ficará disponível apenas para alunos da plataforma.
 
