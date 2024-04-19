@@ -1,0 +1,1 @@
+docker build . -f DockerFile -t python_api

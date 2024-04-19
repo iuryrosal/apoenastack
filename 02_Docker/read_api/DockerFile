@@ -1,0 +1,8 @@
+FROM python:3.10.6-slim
+
+WORKDIR /read_api
+
+ENV ENV="local" 
+
+COPY . .
+RUN pip install --no-cache-dir -r requirements.txt
