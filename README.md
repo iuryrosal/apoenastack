@@ -15,47 +15,16 @@ Conheça nossa plataforma por [aqui](https://www.apoenastack.com) ✌️
 
 Para conhecer mais sobre o projeto participe das nossas iniciativas abertas à comunidade!
 
-<h1 align="center">Encontros de Engenharia</h1>
-Uma iniciativa da plataforma Apoena Stack para contribuir para a comunidade brasileira de Engenharia de Dados e Software!
-Eventos ao vivo e gratuitos para fomentar um espaço de compartilhamento de conhecimento e networking entre outros engenheiros de dados!
-Nesses encontros iremos abordar fundamentos, projetos e boas práticas, essenciais para ser um engenheiro de dados diferenciado no mercado!
+<h2>Labels</h2>
+✨ Totalmente disponível e gratuito.
 
-Confira nosso calendário abaixo.
+🔰 Apenas o ao vivo será gratuito. A gravação ficará disponível apenas para assinantes da plataforma Apoena Stack ([saiba mais](apoenastack.com)).
 
-Encontro | Data + Horário  | Tema | Local | Material de Apoio 
-| ------------- | ------------- | ------------- | ------------- |  ------------- |
-| I | 11/04/2024 - 20h | Estruturando Projetos de Python com CookieCutter, Poetry e Visual Studio Code | ✨ [Youtube](https://youtube.com/live/2u7muy23F8s?feature=share) | |
-| II | 18/04/2024 - 20h | Docker: O Básico e Essencial para Dados | ✨ [Youtube](https://youtube.com/live/nI5mdRKPPJs?feature=share) | |
-| III | 29/04/2024 - 19h | Ingestão de Dados de API com Python e Google Cloud | 🔰 Youtube (EM BREVE) | |
-| IV | 02/05/2024 - 20h | WebScraping com Python Selenium e Google Cloud | 🔰 Youtube (EM BREVE) | |
-| V | 06/05/2024 - 19h | Terraform, Cloud Build e GitHub: Automatizando o processo de deploy | 🔰 Youtube (EM BREVE) | |
-| VI | 13/05/2024 - 18h30 | Ingestão de Dados com DuckDB, AWS e Spark | ✨ Youtube (EM BREVE) | |
+🧭 Para assinantes BASIC da plataforma Apoena Stack ([saiba mais](apoenastack.com))
 
-🔰 Apenas o ao vivo será gratuito. A gravação ficará disponível apenas para alunos da plataforma.
+⭐ Para assinantes ULTIMATE da plataforma Apoena Stack ([saiba mais](apoenastack.com))
 
-✨ A gravação ficará disponível gratuitamente.
-
-OBS: Esse calendário está sujeito a modificações! Qualquer modificação será atualizada nos canais da Apoena Stack: comunidade exclusiva e comunidade aberta!
-
-<h1 align="center">Comunidade de Engenharia de Dados Aberta</h1>
-Temos uma comunidade aberta no WhatsApp gerenciada pela Apoena Stack para fomentar o compartilhamento de conhecimento e networking dentro da comunidade brasileira de Engenharia de Dados! 
-
-Faça parte, clicando [aqui](https://chat.whatsapp.com/CiWfP2g352y1g6QSwALXsD).
-
-<h1 align="center">Pré Requisitos</h1>
-Para acompanhar nossos encontros da melhor forma, indicamos que tenha conhecimento em lógica de programação e a parte básica do Python (estruturas condicionais, estruturas de repetição, variáveis e funções). 
-
-Na plataforma da Apoena Stack temos conteúdos de Python que abordar do básico ao avançado, iniciando do Hello World até os conteúdos de Programação Orientada a Objetos. Conheça clicando [aqui](https://www.apooenastack.com).
-
-É desejável que você já tenha uma experiência de, pelo menos, 1 ano na área de dados.
-
-<h1 align="center">Metodologia</h1>
-
-A Apoena Stack acredita no aprendizado baseado na solução de problemas, sempre propondo boas práticas e uso de fundamentos que justifiquem as decisões tomadas, com uma linguagem acessível e descontraída ✌️
-
-QUEREMOS AGREGAR O MERCADO, SENDO UMA INSTITUIÇÃO QUE CONECTA FUNDAMENTOS AO LADO PRÁTICO DA INDÚSTRIA! 🏢
-
-<h1 align="center">Para quem é: </h1>
+<h2 align="center">Para quem é: </h1>
 Se você
 
 - Está em nível Júnior ou Pleno de Engenharia de Dados e deseja avançar a próxima senioridade e/ou;
@@ -64,6 +33,75 @@ Se você
 - Fica perdido na quantidade gigante de conteúdos disponíveis.
 
 A plataforma Apoena Stack é para você!!!
+
+<h2 align="center">Metodologia</h2>
+
+A Apoena Stack acredita no aprendizado baseado na solução de problemas, sempre propondo boas práticas e uso de fundamentos que justifiquem as decisões tomadas, com uma linguagem acessível e descontraída ✌️
+
+QUEREMOS AGREGAR O MERCADO, SENDO UMA INSTITUIÇÃO QUE CONECTA FUNDAMENTOS AO LADO PRÁTICO DA INDÚSTRIA! 🏢
+
+<h1 align="center"> ✨ Comunidade de Engenharia de Dados Aberta</h1>
+Temos uma comunidade aberta no WhatsApp gerenciada pela Apoena Stack para fomentar o compartilhamento de conhecimento e networking dentro da comunidade brasileira de Engenharia de Dados! 
+
+Faça parte, clicando [aqui](https://chat.whatsapp.com/CiWfP2g352y1g6QSwALXsD).
+
+<h1 align="center"> ✨* Encontros de Engenharia</h1>
+
+_\* Apenas alguns encontros são disponíveis totalmente, outros parcialmente e outros apenas para assinantes._
+
+Uma iniciativa da plataforma Apoena Stack para contribuir para a comunidade brasileira de Engenharia de Dados e Software!
+
+Nesses encontros iremos abordar fundamentos, projetos e boas práticas, essenciais para ser um engenheiro de dados diferenciado no mercado!
+
+Confira nosso calendário abaixo.
+
+Encontro | Data + Horário  | Tema | Local | Material de Apoio 
+| ------------- | ------------- | ------------- | ------------- |  ------------- |
+| I | 11/04/2024 - 20h | Estruturando Projetos de Python com CookieCutter, Poetry e Visual Studio Code | ✨ [Youtube](https://youtube.com/live/2u7muy23F8s?feature=share) | |
+| II | 18/04/2024 - 20h | Docker: O Básico e Essencial para Dados | ✨ [Youtube](https://youtube.com/live/nI5mdRKPPJs?feature=share) | |
+| III | 29/04/2024 - 19h | Processamento de Dados com DuckDB, AWS e Spark | ✨ [Youtube](https://youtube.com/live/nI5mdRKPPJs?feature=share) | |
+
+OBS: Esse calendário está sujeito a modificações! Qualquer modificação será atualizada nos canais da Apoena Stack: comunidade exclusiva e comunidade aberta!
+
+<h2 align="center">Pré Requisitos</h1>
+
+- Para acompanhar nossos encontros da melhor forma, indicamos que tenha conhecimento em lógica de programação e a parte básica do Python (estruturas condicionais, estruturas de repetição, variáveis e funções). 
+
+- É desejável que você já tenha uma experiência de, pelo menos, 1 ano na área de dados.
+
+<h1> ⭐ Calendário Bootcamp - Engenharia de Dados na Google Cloud</h1>
+
+**Unidade I: Entregando valor com baixo custo!!!!**
+_Uma trilha de Engenharia de Dados na Google Cloud, para quem quer acelerar sua evolução na Engenharia de Dados._
+
+
+
+Data + Horário  | Tema | Local  
+ ------------- | ------------- | ------------- 
+20/05/2024 - 19h | Introdução e Boas Vindas | Palco Ultimate (Guilda dos Engenheiros) 
+| 21/05/2024 - 19h | Cloud Storage: Construindo um Datalake | Palco Ultimate (Guilda dos Engenheiros) | 
+| 22/05/2024 - 19h | Pub Sub: Conectando aplicações | Palco Ultimate (Guilda dos Engenheiros) | 
+| 23/05/2024 - 19h | Event-Driven com Cloud Functions | Palco Ultimate (Guilda dos Engenheiros) | 
+| 24/05/2024 - 19h | Projeto 03: Ingestão de Dados via API Privada | Palco Ultimate (Guilda dos Engenheiros) | 
+| 27/05/2024 - 19h | Compute Engine: Poder Computacional da Google Cloud | Palco Ultimate (Guilda dos Engenheiros) | 
+| 28/05/2024 - 19h | Compute Engine na Prática! | Palco Ultimate (Guilda dos Engenheiros) | 
+| 29/05/2024 - 19h | Cloud Build: Implantando serviços de maneira automatizada | Palco Ultimate (Guilda dos Engenheiros) | 
+| 30/05/2024 - 19h | Docker, Containerização e CloudRun | Palco Ultimate (Guilda dos Engenheiros) | 
+| 31/05/2024 - 19h | Projeto 07: Desenvolvimento de uma API para disponibilidade de Dados | Palco Ultimate (Guilda dos Engenheiros) |
+
+<h2 align="center">Pré Requisitos</h1>
+
+- Para acompanhar nossos encontros da melhor forma, indicamos que tenha conhecimento em lógica de programação e em Python (estruturas condicionais, estruturas de repetição, variáveis, programação funcional e orientação a objetos). 
+
+- É desejável que você já tenha uma experiência de, pelo menos, 1 ano na área de dados.
+
+<h1 align="center">Trilhas da Plataforma Apoena Stack</h1>
+
+- 🧭 Python para Dados (ver ementa)
+- 🧭 Fundamentos em Dados (ver ementa)
+- ⭐ Estruturação de Projetos (ver ementa)
+- ⭐ Engenharia de Dados na Google Cloud (ver ementa)
+- 🧭 Manipulação de Dados com Python (ver ementa)
 
 <h1 align="center">Fundador</h1>
 Iury Rosal é fundador e professor da Apoena Stack, com mais de 6 anos de experiência atuando no ramo de consultoria e formação na área de Engenharia de Computação, atua hoje como Engenheiro de Dados Sênior na consultoria Avenue Code e está cursando mestrado em Informática pela PUC-RIO. uma pessoa apaixonada por aprender e ensinar!!!
