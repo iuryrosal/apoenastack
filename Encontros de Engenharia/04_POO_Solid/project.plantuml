@@ -1,0 +1,70 @@
+@startuml
+
+interface FileDataProcessor {
+    read()
+}
+
+class CSVProcessor {
+    read()
+}
+
+class TXTProcessor {
+    read()
+}
+
+interface APIProcessor {
+    make_request()
+    build_auth()
+}
+
+interface APICurrencyConverterProcessor {
+    make_request()
+    build_auth()
+    extract_latest_exchange_rates()
+    extract_curriencies()
+}
+
+class APICurrencyConverter {
+    make_request()
+    build_auth()
+    extract_latest_exchange_rates()
+    extract_curriencies()
+}
+
+class APICurrencyConverterIpsumer {
+    make_request()
+    build_auth()
+    extract_latest_exchange_rates()
+    extract_curriencies()
+}
+
+interface ETLProcessor {
+    extract_data()
+    transform_data()
+    load_data()
+}
+
+class ETLBatchTable {
+    extract_data()
+    transform_data()
+    load_data()
+}
+
+class ETLCurrencies {
+    extract_data()
+    transform_data()
+    load_data()
+}
+
+
+FileDataProcessor <|-- CSVProcessor
+FileDataProcessor <|-- TXTProcessor
+APIProcessor <|-- APICurrencyConverterProcessor
+APICurrencyConverterProcessor <|-- APICurrencyConverter
+APICurrencyConverterProcessor <|-- APICurrencyConverterIpsumer
+ETLProcessor <|-- ETLBatchTable
+ETLProcessor <|-- ETLCurrencies
+ETLBatchTable *-- FileDataProcessor
+ETLCurrencies *-- APICurrencyConverterProcessor
+
+@enduml
